@@ -37,17 +37,17 @@ The implementation details of the project can be referred in the project report.
 
 The project contain following files:
 
-1. [train.ipynb](https://github.com/UF-EEL5840-F22/final-project---code-report-the-optimizers/blob/main/train.ipynb)
+1. [train.ipynb](https://github.com/AkashKK25/Handwritten-Mathematical-Symbol-Recognition/blob/master/train.ipynb)
    This is the code file for training the classifier.
    
-2. [test.ipynb](https://github.com/UF-EEL5840-F22/final-project---code-report-the-optimizers/blob/main/test.ipynb)
+2. [test.ipynb](https://github.com/AkashKK25/Handwritten-Mathematical-Symbol-Recognition/blob/master/test.ipynb)
    This is the code file for testing the classifier.
    
 3. [the_optimizers_classification_model.h5](https://uflorida-my.sharepoint.com/:u:/g/personal/akash_kondaparth_ufl_edu/EQV32fQNuAlFmWwwRD-1Sb8BBrzsaR3Y8cSxGDv72Ta-gA?e=cM1rYm)
    This is the saved Trained Model which is used in test.ipynb
     
-4. [Project Report](https://github.com/UF-EEL5840-F22/final-project---code-report-the-optimizers/blob/main/Project Report.pdf)
-   This report describes detail implemetation of the project
+4. [Project Report](https://github.com/AkashKK25/Handwritten-Mathematical-Symbol-Recognition/blob/master/Project%20Report.pdf)
+   This report describes detailed implemetation of the project.
 
 
 ### Dependencies
@@ -116,10 +116,10 @@ Libraries are:
     
 Model Architecture:
 Model is derived from ResNet50 model, with imagenet trained weights through transfer learning. The model architecture is as shown in the figure below:
-![Alt text](https://github.com/UF-EEL5840-F22/final-project---code-report-the-optimizers/blob/main/images/ResNetmodelfig.png)
+![Alt text](https://github.com/AkashKK25/Handwritten-Mathematical-Symbol-Recognition/blob/master/images/ResNetmodelfig.png)
 
 The Resulting training curves:
-![Alt text](https://github.com/UF-EEL5840-F22/final-project---code-report-the-optimizers/blob/main/images/training_curves.png)
+![Alt text](https://github.com/AkashKK25/Handwritten-Mathematical-Symbol-Recognition/blob/master/images/training_curves.png)
 
 
 
