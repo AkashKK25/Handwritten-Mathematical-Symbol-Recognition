@@ -116,9 +116,11 @@ Libraries are:
     
 Model Architecture:
 Model is derived from ResNet50 model, with imagenet trained weights through transfer learning. The model architecture is as shown in the figure below:
+
 ![Alt text](https://github.com/AkashKK25/Handwritten-Mathematical-Symbol-Recognition/blob/master/images/ResNetmodelfig.png)
 
 The Resulting training curves:
+
 ![Alt text](https://github.com/AkashKK25/Handwritten-Mathematical-Symbol-Recognition/blob/master/images/training_curves.png)
 
 
